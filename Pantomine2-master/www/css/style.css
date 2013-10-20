@@ -1,0 +1,25 @@
+#container {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#wrapper {
+    display: table;
+}
+
+#cell {
+    display:table-cell;
+    vertical-align:middle;
+}
+
+#cameralogo {
+    width:150px;
+    height:150px;
+}
