@@ -1,4 +1,0 @@
-Pantomine
-=========
-
-Pantomine
